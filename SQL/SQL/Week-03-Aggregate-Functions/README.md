@@ -32,7 +32,6 @@ Learn how to summarize, group, filter aggregated data, and apply conditional log
 - SQL_Aggregations.sql
 - Practice_Questions.md
 - Practice_Answers.sql
-- Interview_Notes.md
 
 ---
 
